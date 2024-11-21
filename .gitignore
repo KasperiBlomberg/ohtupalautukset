@@ -3,3 +3,4 @@ __pycache__/
 *tmp
 .coverage
 htmlcov/
+__init__.py
